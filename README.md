@@ -6,16 +6,16 @@ Cafe-Restaurant işletmesine sahip bir firmanın ; Sipariş, ürün hazırlama, 
 <p>
   
 <a href="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/1.gif" target="_blank">
-<img src="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/1.png" style="max-width:100%;"></a>
+<img src="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/1.gif" style="max-width:100%;"></a>
 
 <a href="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/2.png" target="_blank">
 <img src="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/2.png" style="max-width:100%;"></a>
 
-<a href="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/3.png" target="_blank">
-<img src="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/3.png" style="max-width:100%;"></a>
+<a href="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/3.gif" target="_blank">
+<img src="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/3.gif" style="max-width:100%;"></a>
 
-<a href="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/4.png" target="_blank">
-<img src="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/4.png" style="max-width:100%;"></a>
+<a href="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/4.gif" target="_blank">
+<img src="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/4.gif" style="max-width:100%;"></a>
 
 <a href="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/5.png" target="_blank">
 <img src="https://github.com/haticeyesilkaya/CafeRestaurantOtomasyonu/blob/master/Ekran%20Goruntuleri/5.png" style="max-width:100%;"></a>
